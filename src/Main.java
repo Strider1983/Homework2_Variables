@@ -22,5 +22,12 @@ public class Main {
         System.out.println(dog);
         System.out.println(cat);
         System.out.println(paper);
+        System.out.println("Задача №4");
+        var friend = 12;
+        System.out.println(friend);
+        friend = friend + 2;
+        System.out.println(friend);
+        friend = friend / 7;
+        System.out.println(friend);
     }
 }
