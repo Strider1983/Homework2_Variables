@@ -47,5 +47,10 @@ public class Main {
         System.out.println("Общий вес боксеров " + totalWeight + " кг");
         var weightDiff = boxer2 - boxer1;
         System.out.println("Разница в весе " + weightDiff + " кг");
+        System.out.println("Задача №7");
+        var weightDif = boxer2 - boxer1;
+        System.out.println("Разница в весе " + weightDif + " кг");
+        var weight_Dif = boxer2 % boxer1;
+        System.out.println("Весовая разница " + weight_Dif + " кг");
     }
 }
